@@ -39,6 +39,9 @@ specifics:
   - ets
   - mnesia
   - debugging
+ecto:
+  - basics
+  - changesets
 libraries:
   - guardian
   - poolboy
